@@ -1,2 +1,2 @@
-Este es un cambio hecho desde GitHub por
+Este es un cambio hecho desde GitHub por 
 Ismael Diaz
